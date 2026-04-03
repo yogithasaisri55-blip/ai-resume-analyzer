@@ -1,10 +1,20 @@
+[Data Scientist]
 python
-java
 machine learning
 data analysis
-sql
+pandas
+numpy
+
+[Web Developer]
 html
 css
 javascript
-communication
-teamwork
+react
+node
+
+[Software Engineer]
+java
+c++
+data structures
+algorithms
+sql
